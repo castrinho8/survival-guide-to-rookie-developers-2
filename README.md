@@ -1,7 +1,6 @@
 ###### License
 *Creative Commons BY-SA*.
 
-###### Autors
+###### Autor
 *Pablo Castro Valiño*
-*Brais Árias Río*
 
